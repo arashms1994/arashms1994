@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arash Moghadam<br>- 👀 I’m interested in Creating Wonderfull and Lovely UI's<br>- 🌱 I’m currently learning React and TypeScript<br>- 📫 How to reach me arash.ms1994@gmail.com
+- 👋 Hi, I’m Arash Moghadam<br>- 👀 I’m interested in Creating Wonderfull and Lovely UI's<br>- 📫 How to reach me arash.ms1994@gmail.com
 
 
 ## 🌐 Socials:
