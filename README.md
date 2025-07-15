@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Arash Moghadam<br>- 👀 I’m interested in Creating Wonderfull and Lovely Apps<br>- 📫 How to reach me arash.ms1994@gmail.com
+- 👋 Hi, I’m Arash<br>- 👀 I’m interested in Creating Wonderfull and Lovely Apps<br>- 📫 How to reach me arash.ms1994@gmail.com
 
 
 ## 🌐 Socials:
