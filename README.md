@@ -62,10 +62,6 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=arashms1994&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arashms1994&layout=compact&langs_count=8&theme=tokyonight)
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arashms1994&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
